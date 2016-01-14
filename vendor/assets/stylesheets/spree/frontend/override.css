@@ -1,0 +1,16 @@
+div#product_6, div#product_13{
+	border-width: 0px;
+}
+
+div.panel.panel-default{
+	border-radius: 20%;
+	border-width: 0px;
+}
+
+div.panel-footer{
+	border-radius: 100%;
+}
+div#product_6.col-md-3, div#product_13.col-md-3{
+	
+	width: 50%;
+}
